@@ -13,6 +13,7 @@ public class DataTypes{
 
       System.out.println("Usia : " + usia + " Tahun");
       System.out.println("Usia ketika lulus : " + (usia + targetTahunKuliah) + " Tahun");
+      JOptionPane.showMessageDialog(null, "Hai " + namaDepan +" " +namaBelakang);
 
 
   }
