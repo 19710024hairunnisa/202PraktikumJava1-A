@@ -25,6 +25,7 @@ public class DataTypes{
       nilaiAbjad = scanner.next().charAt(0);
       System.out.print("Cantik? :   ");
       cantik = scanner.nextBoolean();
+      namaBelakang = JOptionPane.showInputDialog("Nama Belakang ;   ");
 
 
       System.out.println("==================OUTPUT=================");
